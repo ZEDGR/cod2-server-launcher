@@ -4,7 +4,7 @@ CS:GO Server Installer/Launcher v2
 A simple script to install & launch your Counter-Strike : Global Offensive Dedicated Server.
 
 Configuration
-------------_
+-------------
 
 The config file is located in:
 
