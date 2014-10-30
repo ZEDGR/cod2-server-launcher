@@ -5,6 +5,8 @@ A simple script to launch your Call of Duty 2 Server.
 
 [Based on CSGO-Server-Launcher] (https://github.com/crazy-max/csgo-server-launcher)
 
+Depends on GNU Screen and AWK.
+
 Configuration
 -------------
 
