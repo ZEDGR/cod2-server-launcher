@@ -18,7 +18,7 @@ Before running the script, you must change some variables.
 
 * **SCREEN_NAME** - The screen name, you can put what you want but it must be unique and must contain only alphanumeric character.
 * **USER** - Name of the user who started the server.
-* **IP** - Your WAN IP address.
+* **IP** - Your Server's IP address.
 * **PORT** - The port that your server should listen on.
 <br /><br />
 * **DIR_GAME** - Path to the installation of the game.
@@ -55,5 +55,5 @@ Just add this line in your crontab and change the folder if necessary.
 
     0 5 * * * cd /path/to/script && ./cod2script restart >/dev/null 2>&1
 	
-This will update your server every day at 5 am.
+This will restart your server every day at 5 am.
 
